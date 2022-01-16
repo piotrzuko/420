@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-color: grey;
+    font-size: 14px;
+}
+
+#imie {
+    margin-right: 50px;
+    float: left;
+}
+
+#logo {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#mieszkanie {
+    float: left;
+    margin-right: 50px;
+}
+
+#dos {
+    float: left;
+}
+
+#um {
+    float: left;
+    margin-right: 50px;
+}
+
+#dl {
+    float: left;
+}
+
+#przy {
+    float: left;
+    margin-right: 50px;
+}
+
+#przy2 {
+    float: left;
+}
